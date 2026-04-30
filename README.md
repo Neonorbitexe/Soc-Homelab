@@ -14,3 +14,4 @@ My goal is to set up:
 Right now, I’m learning the tools and planning the environment. I haven’t started running attacks or fully built out my Splunk dashboard yet, but that’s the next step.
 
 I’m focusing on understanding how SOC tools work, how logs are generated, and how analysts detect and investigate activity.
+![image alt](https://github.com/Neonorbitexe/Soc-Homelab/blob/main/ChatGPT%20Image%20Apr%2029%2C%202026%2C%2010_54_25%20PM.png)
